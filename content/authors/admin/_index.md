@@ -1,29 +1,25 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Quantitative ecologist and poet.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Quantitative Ecology and Resource Management
+    institution: University of Washington
+    year: current
+  - course: BA in Mathematics/Statistics and Classical Studies
+    institution: Carleton College
+    year: 2016
+email: "robert.l.emmet@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Quantitative ecology
+- Nature poetry
+- Formal poetry
+name: Robbie Emmet
 organizations:
-- name: Stanford University
+- name: University of Washington
   url: ""
-role: Professor of Artificial Intelligence
+role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +39,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Robbie Emmet is a PhD student studying quantitative ecology at the University of Washington. His research involves developing statistical models of wildlife distribution, abundance, and survival to monitor highly mobile species. When he is not doing research, he often writes poetry, particularly nature and/or formal poetry (or semi-formal; his poetry is formal the way flannel is formal).
